@@ -1,1 +1,1 @@
-# Java---CodeChallangeSolution
+# Java-CodeChallangeSolution
